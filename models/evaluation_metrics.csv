@@ -1,0 +1,3 @@
+Vector Representation,Top-5 Overlap Consistency,Cosine MRR,Euclidean MRR,Cosine Precision@5,Euclidean Precision@5
+TF-IDF (L2-Normalized),1.0,0.8751,0.8751,0.7735,0.7735
+Count Vectorizer (Unnormalized),0.1103,0.9412,0.8664,0.8918,0.6364
